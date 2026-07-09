@@ -71,7 +71,7 @@ The Power BI dashboard includes:
 
 ## Dashboard Preview
 
-![Dashboard](images/[screenshort1.png](https://github.com/Yashkpatel15/car_dataset/blob/main/screenshort1.png)")
+![Dashboard Screenshot](images/screenshort1.png)
 
 
 ## Skills Demonstrated
