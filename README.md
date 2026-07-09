@@ -1,11 +1,5 @@
 # Car Market Analysis Using Python | EDA & Data Visualization
 
-
-
-
-
-
-
 ## Tools & Technologies
 
 - Python
@@ -73,3 +67,32 @@ The Power BI dashboard includes:
 - Most vehicles were manufactured between **2014 and 2018**.
 - Total kilometers driven across all vehicles is approximately **26 Million**.
 
+
+
+## Dashboard Preview
+
+![Dashboard](images/"C:\Users\pv485\OneDrive\Pictures\Screenshots\Screenshot 2026-07-09 125406.png")
+
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Wrangling
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Intelligence
+- Dashboard Development
+- KPI Reporting
+- Power BI
+- Python Programming
+
+
+## Author
+
+**Yash Patel**
+
+📧 Email: pyash6218@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/yashpatel158205
+
+💻 GitHub: https://github.com/Yashkpatel15
