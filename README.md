@@ -39,3 +39,37 @@ Performed detailed EDA to answer business questions including:
 - Price distribution analysis
 - Company-wise performance analysis
 
+## Dashboard Features
+
+The Power BI dashboard includes:
+
+### KPI Cards
+- Total Cars
+- Total Sales Value
+- Minimum Price
+- Maximum Price
+- Average Price
+
+### Interactive Filters
+- Fuel Type
+- Manufacturing Year
+- Company
+
+### Visualizations
+- Bar Chart – Top 5 Companies by Total Price
+- Donut Chart – Average Kilometers by Fuel Type
+- Line Chart – Manufacturing Year Trend
+- Pie Chart – Fuel Type Distribution
+- Horizontal Bar Chart – Average Car Price by Company
+- Gauge Chart – Total Kilometers Driven
+
+## Key Business Insights
+
+- Analyzed **892** used cars.
+- Total market value is approximately **357 Million**.
+- **Maruti** generated the highest total sales value.
+- **Jaguar** has the highest average selling price.
+- Diesel cars represent the largest share of listings.
+- Most vehicles were manufactured between **2014 and 2018**.
+- Total kilometers driven across all vehicles is approximately **26 Million**.
+
