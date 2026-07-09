@@ -71,7 +71,7 @@ The Power BI dashboard includes:
 
 ## Dashboard Preview
 
-![Dashboard](images/Screenshot2026-07-09125406.png")
+![Dashboard](images/Screenshot 2026-07-09 125406.png")
 
 
 ## Skills Demonstrated
